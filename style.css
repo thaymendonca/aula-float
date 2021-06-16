@@ -1,0 +1,7 @@
+div{
+    background: blue;
+    padding: 20px;
+    border: 2px solid orange;
+    color: white;
+    float: left; /* Essa propriedade coloca as divs um ao lado da outra */
+}
